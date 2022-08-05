@@ -1,0 +1,99 @@
+[
+    {
+        "productId": "1",
+        "productImage": "ps3-controllers_260x144.png",
+        "productName": "PS3 Controller",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+
+    },
+    {
+        "productId": "2",
+        "productImage": "xbox-consoles_260x144.png",
+        "productName": "X-box Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 5
+    },
+    {
+        "productId": "3",
+        "productImage": "ps4-controllers_260x144.png",
+        "productName": "PS4 Controller",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "4",
+        "productImage": "ps5-controller.png",
+        "productName": "PS5 Controlle4r",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "5",
+        "productImage": "ps3-consoles_260x144.png",
+        "productName": "PS3 Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "6",
+        "productImage": "ps4-consoles_260x144.png",
+        "productName": "PS4 Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "7",
+        "productImage": "ps5-consoles_260x144.png",
+        "productName": "PS5 Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "8",
+        "productImage": "xbox-consoles_260x144.png",
+        "productName": "X-box Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "9",
+        "productImage": "nintendo_260x144.png",
+        "productName": "Nintendo Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "10",
+        "productImage": "video-games_260x144.png",
+        "productName": "FIFA 2022 - Console disc",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "11",
+        "productImage": "xbox_260x144.png",
+        "productName": "X-box Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    },
+    {
+        "productId": "12",
+        "productImage": "nintendo_260x144.png",
+        "productName": "Nintendo Console",
+        "price": 5000,
+        "rating": 3,
+        "count": 1
+    }
+]
